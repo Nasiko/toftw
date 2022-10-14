@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktower_of_fantasy_web"]=self["webpackChunktower_of_fantasy_web"]||[]).push([[443],{7381:function(n,t,a){a.r(t),a.d(t,{default:function(){return w}});var e=a(3396);const r={class:"about"},s=(0,e._)("h1",null,"This is an about page",-1),u=[s];function o(n,t){return(0,e.wg)(),(0,e.iD)("div",r,u)}var f=a(89);const c={},i=(0,f.Z)(c,[["render",o]]);var w=i}}]);
+//# sourceMappingURL=about.5dd62693.js.map
